@@ -3,8 +3,7 @@ The AndroidDeviceScanner is the unity plugin that can getting android device inf
 
 This Asset enables unity developer to easily getting android device information(Device Model, Device Manufacturer, Device CPU Architecture, Whether the device is connected on internet or not, ... etc) and control the device's sensor(can turn on the wifi, off the wifi, ... etc)
 
-<img src="images/1-basedeviceinfo-new.png" width="40%">
-<img src="images/2-batteryinfo-new.png" width="40%">
+<img src="images/devicescannerimg.png">
 
 ## Specs
 - AndroidDeviceScanner is UnityPlugin and is only available on Android platform.
